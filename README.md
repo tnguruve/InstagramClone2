@@ -24,10 +24,10 @@ Here's a walkthrough of implemented user stories:
 <img src='Instagram3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
+## Describe any challenges encountered while building the app.
+My emulator was not taking pictures and i had to delete it and use a new one.
 
-## Notes
 
-Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
 
