@@ -23,7 +23,7 @@ Here's a walkthrough of implemented user stories:
 <img src='Instagram1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='Instagram2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='Instagram3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='Instagram3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='ezgif.com-video-to-gif-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Describe any challenges encountered while building the app.
