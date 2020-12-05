@@ -18,7 +18,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='instagram2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=<blockquote class="imgur-embed-pub" lang="en" data-id="a/Q5rEk6l" data-context="false" ><a href="//imgur.com/a/Q5rEk6l"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='instagram1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
