@@ -19,8 +19,8 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 "//s.imgur.com/min/embed.js
-<img src='instagram1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='//s.imgur.com/min/embed.js' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='instagramA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='instagramB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
