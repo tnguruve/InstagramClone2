@@ -19,8 +19,12 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 "//s.imgur.com/min/embed.js
-<img src='instagramA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='instagramB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='InstagramA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='InstagramB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="/course_images/android_university/%22my_gif_address.gif%22" target="_blank"><img src='/course_images/android_university/%22my_gif_address.gif%22' title='gif_description' width='' alt='gif_description' /></a>
+or
+
+<img src="my_gif_address.gif", width=400 />
 
 
 
